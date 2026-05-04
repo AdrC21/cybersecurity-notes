@@ -137,4 +137,4 @@ Al aceptar esta declaración, el estudiante reconoce que:
 ## 🔗 Navegación
 
 ← Inicio — [README principal](../README.md)  
-→ Siguiente — Módulo 1 *(próximamente)*
+→ Siguiente — [ Módulo 1 ](../modulo-01)

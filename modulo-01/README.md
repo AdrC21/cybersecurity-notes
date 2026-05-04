@@ -1,7 +1,7 @@
 # 📖 Módulo 1 — Introducción a la Piratería Ética y las Pruebas de Penetración
 
 > **Objetivo:** Explicar la importancia del hacking ético metodológico y de las pruebas de penetración.  
-> **Estado:** 🟡 En progreso
+> **Estado:** ✅ Completado
 
 ---
 
