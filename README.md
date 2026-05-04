@@ -24,8 +24,8 @@ Este curso está diseñado para preparar al estudiante con un conjunto de habili
 | # | Módulo | Objetivo | Estado |
 |---|--------|----------|--------|
 | 0 | [Introducción al Curso](./modulo-00-introduccion/) | Presentación del entorno, empresas ficticias y declaración ética | ✅ Completado |
-| 1 | [Introducción a la Piratería Ética y las Pruebas de Penetración](./modulo-01/) | Explicar la importancia del hacking ético metodológico y de las pruebas de penetración | 🔒 Pendiente |
-| 2 | [Planificación y Alcance de una Evaluación de Pruebas de Penetración](./modulo-02/) | Crear los documentos preliminares de una prueba de penetración | 🔒 Pendiente |
+| 1 | [Introducción a la Piratería Ética y las Pruebas de Penetración](./modulo-01/) | Explicar la importancia del hacking ético metodológico y de las pruebas de penetración | ✅ Completado |
+| 2 | [Planificación y Alcance de una Evaluación de Pruebas de Penetración](./modulo-02/) | Crear los documentos preliminares de una prueba de penetración | ✅ Completado |
 | 3 | [Recopilación de Información y Análisis de Vulnerabilidades](./modulo-03/) | Realizar actividades de recopilación de información y escaneo de vulnerabilidades | 🔒 Pendiente |
 | 4 | [Ataques de Ingeniería Social](./modulo-04/) | Explicar cómo tienen éxito los ataques de ingeniería social | 🔒 Pendiente |
 | 5 | [Explotando Redes Cableadas e Inalámbricas](./modulo-05/) | Explicar cómo explotar las vulnerabilidades de las redes cableadas e inalámbricas | 🔒 Pendiente |
